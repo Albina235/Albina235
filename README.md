@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Albina, here are some stats about my coding experience:
 
-## Here you can see my progress at School_21
+**School21 progress**
 
 ![evalorie's 42 stats](https://badge42.herokuapp.com/api/stats/evalorie)
 
