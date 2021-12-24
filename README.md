@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Here you can see my progress at School_21
+
 ![evalorie's 42 stats](https://badge42.herokuapp.com/api/stats/evalorie)
+
+- 📫 How to reach me:    
+  [e-mail](mailto:allbina_akhmetova@mail.ru) [telegram](https://t.me/albinaakhmet)
