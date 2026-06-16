@@ -29,14 +29,18 @@ I am a researcher and data specialist with a mathematical background. My work fo
   <img src="https://skillicons.dev/icons?i=python,r,cpp,cs,bash,latex" />
 </p>
 
-**Machine Learning & Data Analysis:**
+**Machine Learning & Data Science:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,pandas,numpy,matlab" />
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" title="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" title="NumPy" />
+  <img src="https://skillicons.dev/icons?i=matlab" />
 </p>
 
 **Big Data & Databases:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spark,mongodb,mysql,sqlite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="48" height="48" title="Apache Spark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="48" height="48" title="Hadoop" />
 </p>
 
