@@ -1,55 +1,54 @@
-### Hi there 👋
+# Hi there, I'm Albina! 👋
+**ML Engineer | Data Analyst | Python Developer | Researcher**
 
-<!--
-**Albina235/Albina235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software engineer and researcher with a strong mathematical background. I specialize in building ML models, data processing pipelines, and exploring algorithms in Bioinformatics and Drug Design.
 
-Here are some ideas to get you started:
+### 🎓 Education
+- **M.S. in AI & Data Engineering** | Innopolis University (2025 — Present)
+- **B.S. in Mathematics & Computer Science** | Kazan Federal University (2021 — 2025)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-- 📫 How to reach me:    
-  [e-mail](mailto:allbina_akhmetova@mail.ru) [telegram](https://t.me/albinaakhmet)
+### 📊 GitHub Activities
 
-<!-- Основная карточка профиля -->
+<!-- Main Profile Card -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Albina235&theme=city_lights)
 
-<!-- Статистика в ряд -->
+<!-- Stats & Languages -->
 <p align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Albina235&theme=city_lights" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Albina235&theme=city_lights" />
 </p>
 
-### Tech Stack & Tools
+---
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/>
-</div>
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-</div>
+### 🛠 Tech Stack
+
+**Languages:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,r,sql,cpp,cs,bash,latex" />
+</p>
+
+**Machine Learning & Data Analysis:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,py" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" />
+</p>
+
+**Tools:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,mysql,vscode,pycharm" />
+</p>
+
+---
+
+### 🔬 Current Research Projects (In Progress)
+- **Molecular Modeling & Protein Docking:** Researching PIPER algorithms and applying discrete optimization to improve protein complex searches.
+- **Drug Discovery & Chemoinformatics:** Developing Graph Neural Networks (GNN) to predict small molecule properties and evaluating model calibration.
+
+---
+
+### 📫 Connect with me
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/albinaakhmet)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:allbina_akhmetova@mail.ru)
