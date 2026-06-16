@@ -1,7 +1,7 @@
 # Hi there, I'm Albina! 👋
 **ML Engineer | Data Analyst | Python Developer | Researcher**
 
-I am a software engineer and researcher with a strong mathematical background. I specialize in building ML models, data processing pipelines, and exploring algorithms in Bioinformatics and Drug Design.
+I am a researcher and data specialist with a mathematical background. My work focuses on applying machine learning, data analysis, and mathematical modeling to solve complex problems, particularly in the fields of Bioinformatics and Drug Design.
 
 ### 🎓 Education
 - **M.S. in AI & Data Engineering** | Innopolis University (2025 — Present)
@@ -24,29 +24,34 @@ I am a software engineer and researcher with a strong mathematical background. I
 
 ### 🛠 Tech Stack
 
-**Languages:**
+**Languages & Core:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,sql,cpp,cs,bash,latex" />
+  <img src="https://skillicons.dev/icons?i=python,r,cpp,cs,bash,latex" />
 </p>
 
 **Machine Learning & Data Analysis:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,py" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,pandas,numpy,matlab" />
 </p>
 
-**Tools:**
+**Big Data & Databases:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,mysql,vscode,pycharm" />
+  <img src="https://skillicons.dev/icons?i=spark,mongodb,mysql,sqlite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="48" height="48" title="Hadoop" />
+</p>
+
+**Tools & Environment:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,vscode,pycharm" />
 </p>
 
 ---
 
-### 🔬 Current Research Projects (In Progress)
-- **Molecular Modeling & Protein Docking:** Researching PIPER algorithms and applying discrete optimization to improve protein complex searches.
-- **Drug Discovery & Chemoinformatics:** Developing Graph Neural Networks (GNN) to predict small molecule properties and evaluating model calibration.
+### 🔬 Key Projects (in progress)
 
+- **LLM Memory Compression (Industrial):** Developing a Python module to transform long dialogue histories into compact, structured representations. Focused on preserving critical information using summarization and relevance-based retention strategies for LLM agents.
+- **Reliability of Molecular GNNs:** Researching Graph Neural Network (GNN) reliability under distribution shift. Implementing conformal calibration, stable MC-Dropout inference, and Risk–Coverage estimation for molecular property prediction.
+- **Trustworthy Agentic AI Evaluation:** Building an evaluation framework to test the survival and trustworthiness of AI agents under realistic changes in tools, memory, and adversarial pressure.
 ---
 
 ### 📫 Connect with me
